@@ -1,0 +1,20 @@
+C:\Users\user\Desktop\timerkullanimi\timerkullanimi\bin\Debug\timerkullanimi.exe.config
+C:\Users\user\Desktop\timerkullanimi\timerkullanimi\bin\Debug\timerkullanimi.exe
+C:\Users\user\Desktop\timerkullanimi\timerkullanimi\bin\Debug\timerkullanimi.pdb
+C:\Users\user\Desktop\timerkullanimi\timerkullanimi\obj\Debug\timerkullanimi.csprojAssemblyReference.cache
+C:\Users\user\Desktop\timerkullanimi\timerkullanimi\obj\Debug\timerkullanimi.Form1.resources
+C:\Users\user\Desktop\timerkullanimi\timerkullanimi\obj\Debug\timerkullanimi.Properties.Resources.resources
+C:\Users\user\Desktop\timerkullanimi\timerkullanimi\obj\Debug\timerkullanimi.csproj.GenerateResource.cache
+C:\Users\user\Desktop\timerkullanimi\timerkullanimi\obj\Debug\timerkullanimi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\timerkullanimi\timerkullanimi\obj\Debug\timerkullanimi.exe
+C:\Users\user\Desktop\timerkullanimi\timerkullanimi\obj\Debug\timerkullanimi.pdb
+C:\Users\user\Desktop\Projeler\Koşu Yarışı Oyunu\timerkullanimi\bin\Debug\timerkullanimi.exe.config
+C:\Users\user\Desktop\Projeler\Koşu Yarışı Oyunu\timerkullanimi\bin\Debug\timerkullanimi.exe
+C:\Users\user\Desktop\Projeler\Koşu Yarışı Oyunu\timerkullanimi\bin\Debug\timerkullanimi.pdb
+C:\Users\user\Desktop\Projeler\Koşu Yarışı Oyunu\timerkullanimi\obj\Debug\timerkullanimi.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Projeler\Koşu Yarışı Oyunu\timerkullanimi\obj\Debug\timerkullanimi.Form1.resources
+C:\Users\user\Desktop\Projeler\Koşu Yarışı Oyunu\timerkullanimi\obj\Debug\timerkullanimi.Properties.Resources.resources
+C:\Users\user\Desktop\Projeler\Koşu Yarışı Oyunu\timerkullanimi\obj\Debug\timerkullanimi.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Projeler\Koşu Yarışı Oyunu\timerkullanimi\obj\Debug\timerkullanimi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Projeler\Koşu Yarışı Oyunu\timerkullanimi\obj\Debug\timerkullanimi.exe
+C:\Users\user\Desktop\Projeler\Koşu Yarışı Oyunu\timerkullanimi\obj\Debug\timerkullanimi.pdb
